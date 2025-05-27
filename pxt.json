@@ -1,0 +1,26 @@
+{
+    "name": "pxt-hydroponics",
+    "version": "1.0.0",
+    "description": "Modules and lessons for the Hydroponics Kit.",
+    "license": "MIT",
+    "dependencies": {
+        "fwd-float": "github:Forward-Education/pxt-fwd-modules/fwd-float",
+        "fwd-ph": "github:Forward-Education/pxt-fwd-modules/fwd-ph",
+        "fwd-lights": "github:Forward-Education/pxt-fwd-modules/fwd-lights",
+        "fwd-temperature": "github:Forward-Education/pxt-fwd-modules/fwd-temperature",
+        "fwd-pump": "github:Forward-Education/pxt-fwd-modules/fwd-pump"
+    },
+    "files": [],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "7.0.61",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
