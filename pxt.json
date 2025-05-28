@@ -1,6 +1,6 @@
 {
     "name": "pxt-hydroponics",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Modules and lessons for the Hydroponics Kit.",
     "license": "MIT",
     "dependencies": {
