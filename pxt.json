@@ -7,7 +7,6 @@
         "fwd-float": "github:Forward-Education/pxt-fwd-modules/fwd-float#v1.0.1",
         "fwd-ph": "github:Forward-Education/pxt-fwd-modules/fwd-ph#v1.0.1",
         "fwd-lights": "github:Forward-Education/pxt-fwd-modules/fwd-lights#v1.0.1",
-        "fwd-temperature": "github:Forward-Education/pxt-fwd-modules/fwd-temperature#v1.0.1",
         "fwd-pump": "github:Forward-Education/pxt-fwd-modules/fwd-pump#v1.0.1"
     },
     "files": [],
