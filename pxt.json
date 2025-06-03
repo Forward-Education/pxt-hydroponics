@@ -9,7 +9,9 @@
         "fwd-lights": "github:Forward-Education/pxt-fwd-modules/fwd-lights#v1.0.1",
         "fwd-pump": "github:Forward-Education/pxt-fwd-modules/fwd-pump#v1.0.1"
     },
-    "files": [],
+    "files": [
+        "README.md"
+    ],
     "testFiles": [
         "test.ts"
     ],
