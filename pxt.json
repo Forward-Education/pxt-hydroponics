@@ -1,13 +1,13 @@
 {
-    "name": "pxt-fwd-hydroponics",
+    "name": "fwd-smart-hydroponics",
     "version": "1.0.1",
-    "description": "Modules and lessons for the Hydroponics Kit.",
+    "description": "Forward Education's Smart Hydroponics Kit extension, micro:bit V2 only.",
     "license": "MIT",
     "dependencies": {
-        "fwd-float": "github:Forward-Education/pxt-fwd-modules/fwd-float#v1.0.1",
-        "fwd-ph": "github:Forward-Education/pxt-fwd-modules/fwd-ph#v1.0.1",
-        "fwd-lights": "github:Forward-Education/pxt-fwd-modules/fwd-lights#v1.0.1",
-        "fwd-pump": "github:Forward-Education/pxt-fwd-modules/fwd-pump#v1.0.1"
+        "fwd-float": "github:Forward-Education/pxt-fwd-modules/fwd-float#v1.0.3",
+        "fwd-ph": "github:Forward-Education/pxt-fwd-modules/fwd-ph#v1.0.3",
+        "fwd-lights": "github:Forward-Education/pxt-fwd-modules/fwd-lights#v1.0.3",
+        "fwd-pump": "github:Forward-Education/pxt-fwd-modules/fwd-pump#v1.0.3"
     },
     "files": [
         "README.md"
